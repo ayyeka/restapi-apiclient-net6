@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4934cad4-15dc-43fa-bb02-b4d0df7df3cc": {
+      "ProjectGuid": "4934cad4-15dc-43fa-bb02-b4d0df7df3cc",
+      "DisplayName": "AyyekaAPIClientExample",
+      "ColorIndex": 0
+    },
+    "a29f47bd-ffb9-4fcd-9e4a-6ce936aae84a": {
+      "ProjectGuid": "a29f47bd-ffb9-4fcd-9e4a-6ce936aae84a",
+      "DisplayName": "AyyekaAPIClientExample",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
