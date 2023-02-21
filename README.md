@@ -2,7 +2,7 @@
 
 This is a simple example of REST-API client developed in .NET6,user can use this code as boilareplate for integration with Ayyeka's FAI platform.
 
-Example code will authenticate and fetch metadata and will fetch in a loop for new samples from the FAI platform.
+Example code is only works with RestAPI v2 - it will authenticate using specifed API Key,Secret then fetch metadata (sites,samples) and the last step is a loop that will fetch new samples from the FAI every 15min.
 
 ## Prerequisites
 
