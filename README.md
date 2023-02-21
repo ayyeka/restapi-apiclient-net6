@@ -1,6 +1,7 @@
 # REST-API client example code in .NET6
 
 This is a simple example of a REST-API client developed in.NET6, users can use this code as a boilerplate to integrate with Ayyeka's FAI platform, example code only works with version 2.0 of Rest-API.
+
 When running the code the following steps will be executed:
 1. Authentication using a specified API Key, Secret in order to acquire an access token.
 2. Fetch and print out metadata (sites, samples).
